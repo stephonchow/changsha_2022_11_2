@@ -1,1 +1,2 @@
 架构 v1
+修改a.txt 使用pull v2
